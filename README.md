@@ -5,7 +5,7 @@ explicit bytes or metadata policy.
 
 Status: 0.1.0 implementation pending release evidence.
 
-CI: https://github.com/joshiii-xyz/treesync-verify/actions
+CI: https://github.com/yoshiii-xyz/treesync-verify/actions
 
 ## Install
 
