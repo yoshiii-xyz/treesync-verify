@@ -5,7 +5,7 @@ edition = "2024"
 rust-version = "1.85"
 description = "A local file-tree equivalence verifier with explicit comparison policies"
 license = "MIT"
-repository = "https://github.com/joshiii-xyz/treesync-verify"
+repository = "https://github.com/yoshiii-xyz/treesync-verify"
 keywords = ["filesystem", "verification", "symlink", "hardlink", "integrity"]
 categories = ["command-line-utilities", "filesystem"]
 
